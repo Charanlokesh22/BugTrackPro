@@ -12,12 +12,14 @@ BugTrack Pro is a simplified bug tracking system designed for QA teams to log, m
 - CORS-enabled for frontend-backend communication
 
 
-  Technologies Used
+
+   Technologies Used
 - Backend: Node.js, Express
 - Database: MongoDB (via Mongoose)
 - Frontend: HTML, JavaScript (Vanilla)
 - Version Control: Git
 - Tooling: Postman (for API testing)
+
 
 
   How It Works
@@ -28,9 +30,11 @@ BugTrack Pro is a simplified bug tracking system designed for QA teams to log, m
 5. Future improvements may include role-based login, email alerts, and file uploads.
 
 
+
 Prerequisites
 - Node.js and npm installed
 - MongoDB running locally or remotely
+
 
 
 Clone the Repository
