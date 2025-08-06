@@ -1,0 +1,16 @@
+bugtrack-pro/
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   └── bugRoutes.js
+│   ├── models/
+│   │   └── Bug.js
+│   ├── controllers/
+│   │   └── bugController.js
+│   └── config/
+│       └── db.js
+├── frontend/
+│   └── index.html
+├── .gitignore
+├── package.json
+├── README.md
