@@ -11,3 +11,4 @@ router.get('/bugs', getAllBugs);
 router.put('/bugs/:id/status', updateBugStatus);
 
 module.exports = router;
+
